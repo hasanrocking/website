@@ -1,2 +1,2 @@
-echo " my name is hasan . i wanna be a devops engineer "
+echo " my name is hasan . i am a devops engineer "
  
