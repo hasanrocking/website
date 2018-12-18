@@ -4,6 +4,18 @@
   <artifactId>mywebsiteProject</artifactId>
   <version>mywebsiteProject0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
+  <distributionManagement>
+		<repository>
+			<id>nexus</id>
+			<name>hasan Technologies Releases Nexus Repository</name>
+			<url>http://localhost:9090/infosys/repository/hasan-technologies-release/</url>
+			</repository>
+			<snapshotRepository>
+			<id>nexus</id>
+			<name>Mithun Technologies Snapshot Nexus Repository </name>
+			<url>http://localhost:9090/infosys/repository/hasan-technologies-snapshot/</url>
+			</snapshotRepository>
+			</distributionManagement>
   <build>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
