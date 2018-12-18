@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>mywebsiteProject</groupId>
   <artifactId>mywebsiteProject</artifactId>
-  <version>mywebsiteProject0.0.1-SNAPSHOT</version>
+  <version>3.0.6</version>
   <packaging>war</packaging>
   <distributionManagement>
 		<repository>
